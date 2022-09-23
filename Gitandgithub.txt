@@ -1,0 +1,27 @@
+https://github.com/shruthi2609/BI-Sep-Batch-FE.git
+
+
+1.git remote add origin https://github.com/shruthi2609/BI-Sep-Batch-FE.git
+(to add remote repo link and this is one time proccess)
+
+push the code cmmd
+git push -u origin master(master is branch name)
+
+
+step 1.
+
+# git config --global user.name rajendrajat
+# git config --global user.password R*******
+
+
+create one file one.txt
+
+# git status
+# git add one.txt
+# git add -A
+# git commit -m one.txt
+# git push -u origin master
+
+
+
+
