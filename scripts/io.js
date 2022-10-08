@@ -8,6 +8,10 @@ console.log(typeof age)
 
 // my practice.
 
-let age = prompt("give me a number")
+/*let age = prompt("give me a number")
 console.log(age)
-console.log(typeof age)
+console.log(typeof age)*/
+
+
+
+
