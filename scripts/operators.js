@@ -11,7 +11,7 @@
  * misc operators - ?: , nullish coalescing operator
  */
 
-let a = 10
+/*let a = 10
 let b = 5
 console.log(a + b)
 console.log(a - b)
@@ -25,7 +25,7 @@ let d = 10 % 3 //% is modulo
 console.log(d)
 
 let e = 3 ** 2 //exponent operator
-console.log(e)
+console.log(e)*/
 
 //logical operator && || !
 
@@ -34,47 +34,56 @@ console.log(e)
 // < <= > >= == ===
 
 
-let age_one = 20
+/*let age_one = 20
 let age_two = 20
 console.log(age_one <= age_two)
 console.log(10 == "10")//only the value
 console.log(10 === "10") // this going to check both values and DT
 
+/*let age1 = 18
+let age2 = 17
+console.log(age1 >= age2)
+
+*/
+
 
 //logical operators
 // && || !
-let a = 10
+/*let a = 10
 let b = 20
 let c = 5
 console.log(!((a > b) && (a > c)))
 console.log((a > b) || (a > c))
-console.log(!((a > b) || (a > c)))
-let age = 19
+console.log(!((a > b) || (a > c))) */
+
+
+/*let age = 19
 console.log(!age > 18)
 let isArrears = true
-console.log(!isArrears) * /
-
+console.log(!isArrears)
+*/
 //Assignment operators
-// += -= *= /= %= **= 
-let a = 10
+// += -= *= /= %= **=
+/*let a = 10
 let b = 20
 //a=a+b
 a += b // a is 30
 b -= a // 20-30 => -10
+
 console.log(a)
 console.log(b)
-
+*/
 
 //string operator
 // +
-let fname = 'john06&&'
+/*let fname = 'john06&&'
 let age = true
 let lname = 'anderson'
 let fullname = fname + lname
 let formatted_fullname = fname + " " + lname
 console.log(fullname)
 console.log(formatted_fullname)
-//implicit type conversion 
+//implicit type conversion
 console.log(fname + age) //string+number =>string
 //number+string => string
 //number+number =>number
@@ -85,3 +94,19 @@ console.log(fname + age) //string+number =>string
 let isTopper = false
 console.log(typeof lname)
 console.log(typeof (formatted_fullname))
+*/
+
+//my practice
+
+/*let fname = 'rajendra'
+let age = true
+let lname = 'jat'
+let fullname = fname + lname
+let formatted_fullname = fname + " " + lname
+console.log(fullname)
+console.log(formatted_fullname)
+console.log(fname + age)
+console.log(typeof fname)
+console.log(typeof age)
+console.log(typeof formatted_fullname)
+
