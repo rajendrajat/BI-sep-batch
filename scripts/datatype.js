@@ -12,16 +12,17 @@
  * 7.undefined
  */
 
-/*let age=18
-let cgpa=9.0
-let first_name='john'
-let last_name="anderson"
-let university=`oxford`
+/*let age = 18
+let cgpa = 9.0
+let first_name = 'john'
+let last_name = "anderson"
+let university = `oxford`
 console.log("the student first name is : first_name")
-console.log(`the student first name is : ${first_name} , he is from ${university}`)*/
+console.log(`the student first name is : ${first_name} , he is from ${university}`)
 let isArrears = true
 let isTopper = false
-console.log(isArrears)
+console.log(isArrears)*/
+
 //array
 let marks = [90, 80, 75, 85, 67]
 console.log(marks)

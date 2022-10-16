@@ -1,50 +1,3 @@
-// console.log("hello")
-//will take some input
-//should proccess the input
-//some output
-//creating a function
-// function without input
-/*function printName() {
-    console.log("hello Java")
-}
-printName()
-printName()
-printName()*/
-
-// how to give to input and get output for the same
-// dry priciple -dont repeat by yourself
-//printName == pascal case
-//PrintName == camal case
-
-//input
-/*function printCustomName(fname, lname, age) {
-    console.log(`Hello ${fname} ${lname} : your age is :${age} `)
-}
-printCustomName("john", "Jat", 26)*/
-
-/*function sumofNumbers(a, b) {
-    let c = a + b
-    let d = a - b
-    console.log(c)
-    return [c, d]
-}
-let result = sumofNumbers(30, 40)
-console.log(result[0], result[1])
-//function printTwonumber(x, y) {
-//console.log(x + y)
-//}
-//printTwonumber(10, 10)
-*/
-
-
-
-
-//Math Operation
-//properties
-
-//functions
-
-
 //console.log("hello")//hello as input
 //program which is going to print browser console
 //output
@@ -86,6 +39,7 @@ function sumOfNumbers(a,b){
     let c=a+b
     let d=a-b
     //console.log(c)
+    return c
     //return 30  =>result will be 30
     //return c,d => result will be d
     return [c,d] 

@@ -28,23 +28,23 @@ console.log("you are eligible for voting")
 
 
 else
-console.log('you are not eligible')
+console.log('you are not eligible')*/
 
-let wish='sandwich'
-if(wish==='coffee'){
+let wish = 'sandwich'
+if (wish === 'coffee') {
     console.log('prepare coffee')
 }
-else if(wish==='tea'){
+else if (wish === 'tea') {
     console.log('prepare tea')
 }
-else if(wish==='juice'){
+else if (wish === 'juice') {
     console.log('prepare juice')
 }
-else{
-   console.log('give some water')
-}*/
+else {
+    console.log('give some water')
+}
 
-let age = 18
+/*let age = 18
 switch (age) {
     case 10:
         console.log("age is 10")
