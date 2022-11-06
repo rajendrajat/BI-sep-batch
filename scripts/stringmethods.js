@@ -27,7 +27,7 @@ else{
     alert(`the word is starting from index : ${ind}`)
 }*/
 
-let msg = "Welcome to Javascript Javascript Javascript"
+/*let msg = "Welcome to Javascript Javascript Javascript"
 //slice
 console.log(msg.slice(11))
 console.log(msg.slice(0, 21))
@@ -59,4 +59,8 @@ console.log(m1.concat(" ", m2))
 //split
 console.log(msg.split(" "))
 let m3 = "Hello,John,Peter,Henry"
-console.log(m3.split(","))
+console.log(m3.split(","))*/
+
+
+
+
